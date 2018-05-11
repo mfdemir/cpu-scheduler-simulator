@@ -9,3 +9,6 @@ Earliest Deadline First
 Multi Level Feedback Queue
 Shortest Job First
 ```
+
+### Note
+This project focuses on cpu scheduling algorithms. If you are interested in virtual memory paging and frame replacement algorithms you can check my other project at https://github.com/mfdemir/cpu-scheduler-simulator-with-paging .
