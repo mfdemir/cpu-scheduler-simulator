@@ -1,0 +1,6 @@
+C:\Users\mFd\Desktop\CPU Scheduler Simulator\OS Project\bin\Debug\CPU Scheduler Simulator.exe.config
+C:\Users\mFd\Desktop\CPU Scheduler Simulator\OS Project\obj\Debug\CPU Scheduler Simulator.exe
+C:\Users\mFd\Desktop\CPU Scheduler Simulator\OS Project\obj\Debug\CPU Scheduler Simulator.pdb
+C:\Users\mFd\Desktop\CPU Scheduler Simulator\CPU Scheduler Simulator\bin\Debug\CPU Scheduler Simulator.exe.config
+C:\Users\mFd\Desktop\CPU Scheduler Simulator\CPU Scheduler Simulator\obj\Debug\CPU Scheduler Simulator.exe
+C:\Users\mFd\Desktop\CPU Scheduler Simulator\CPU Scheduler Simulator\obj\Debug\CPU Scheduler Simulator.pdb

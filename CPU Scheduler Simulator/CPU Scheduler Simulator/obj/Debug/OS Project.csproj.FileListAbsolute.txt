@@ -1,0 +1,28 @@
+E:\mFd\School\Operating Systems\OS Project\OS Project\bin\Debug\CPU Scheduler Simulator.exe.config
+E:\mFd\School\Operating Systems\OS Project\OS Project\bin\Debug\CPU Scheduler Simulator.exe
+E:\mFd\School\Operating Systems\OS Project\OS Project\bin\Debug\CPU Scheduler Simulator.pdb
+E:\mFd\School\Operating Systems\OS Project\OS Project\bin\Debug\ZedGraph.xml
+E:\mFd\School\Operating Systems\OS Project\OS Project\bin\Debug\ZedGraph.Web.xml
+E:\mFd\School\Operating Systems\OS Project\OS Project\bin\Debug\de\ZedGraph.resources.dll
+E:\mFd\School\Operating Systems\OS Project\OS Project\bin\Debug\es\ZedGraph.resources.dll
+E:\mFd\School\Operating Systems\OS Project\OS Project\bin\Debug\fr\ZedGraph.resources.dll
+E:\mFd\School\Operating Systems\OS Project\OS Project\bin\Debug\hu\ZedGraph.resources.dll
+E:\mFd\School\Operating Systems\OS Project\OS Project\bin\Debug\it\ZedGraph.resources.dll
+E:\mFd\School\Operating Systems\OS Project\OS Project\bin\Debug\ja\ZedGraph.resources.dll
+E:\mFd\School\Operating Systems\OS Project\OS Project\bin\Debug\pt\ZedGraph.resources.dll
+E:\mFd\School\Operating Systems\OS Project\OS Project\bin\Debug\sv\ZedGraph.resources.dll
+E:\mFd\School\Operating Systems\OS Project\OS Project\bin\Debug\tr\ZedGraph.resources.dll
+E:\mFd\School\Operating Systems\OS Project\OS Project\bin\Debug\zh-cn\ZedGraph.resources.dll
+E:\mFd\School\Operating Systems\OS Project\OS Project\bin\Debug\zh-tw\ZedGraph.resources.dll
+E:\mFd\School\Operating Systems\OS Project\OS Project\obj\Debug\OS Project.csprojResolveAssemblyReference.cache
+E:\mFd\School\Operating Systems\OS Project\OS Project\obj\Debug\CPU_Scheduler_Simulator.AddMLFQForm.resources
+E:\mFd\School\Operating Systems\OS Project\OS Project\obj\Debug\CPU_Scheduler_Simulator.MainForm.resources
+E:\mFd\School\Operating Systems\OS Project\OS Project\obj\Debug\CPU_Scheduler_Simulator.AddSchedulerForm.resources
+E:\mFd\School\Operating Systems\OS Project\OS Project\obj\Debug\CPU_Scheduler_Simulator.EnterValueForm.resources
+E:\mFd\School\Operating Systems\OS Project\OS Project\obj\Debug\CPU_Scheduler_Simulator.Properties.Resources.resources
+E:\mFd\School\Operating Systems\OS Project\OS Project\obj\Debug\OS Project.csproj.GenerateResource.Cache
+E:\mFd\School\Operating Systems\OS Project\OS Project\obj\Debug\CPU Scheduler Simulator.exe
+E:\mFd\School\Operating Systems\OS Project\OS Project\obj\Debug\CPU Scheduler Simulator.pdb
+C:\Users\mFd\Desktop\CPU Scheduler Simulator\OS Project\bin\Debug\CPU Scheduler Simulator.exe.config
+C:\Users\mFd\Desktop\CPU Scheduler Simulator\OS Project\obj\Debug\CPU Scheduler Simulator.exe
+C:\Users\mFd\Desktop\CPU Scheduler Simulator\OS Project\obj\Debug\CPU Scheduler Simulator.pdb
